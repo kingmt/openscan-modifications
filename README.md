@@ -48,4 +48,4 @@ assembled everything yet.
 
 7. Assemble the top axles, place in the midblocks and mount in place using the 
 bearing covers.
-![scanner](/images/top_bearings_placed.png)
+![scanner](/images/top_bearings_mounted.png)
