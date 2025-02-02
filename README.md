@@ -43,7 +43,9 @@ assembled everything yet.
 
 5. Put the rotor cog on the rear stepper.
 
-6. Place the rotor onto the bearings. Adjust the cog stepper as needed. Assemble the
-tops axles, place in the midblocks and mount in place using the bearing covers.
+6. Place the rotor onto the bearings. Adjust the cog stepper as needed. 
 ![scanner](/images/rotor_placed.png)
+
+7. Assemble the top axles, place in the midblocks and mount in place using the 
+bearing covers.
 ![scanner](/images/top_bearings_placed.png)
