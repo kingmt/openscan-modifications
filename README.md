@@ -32,18 +32,18 @@ the axle. The midblocks do not have right/left versions.
 2. Attach the bearing blocks to the stepper mounts. The platform mount should have the
 bearing block attached to the front, while the cog mount will have the bearing block
 attached to the rear. Attach the steppers, the cog stepper should not be fully tightened
-to allow for adjustment later. !(/images/bearing block to mount assembly.png)
+to allow for adjustment later. ![scanner](/images/bearing block to mount assembly.png)
 
 3. The Raspberry Pi attaches to the front crossbar platform using M2.5 screws. I 
 have acquired a BigTreeTech SKR Pico to drive the steppers but I have not actually 
 assembled everything yet.
 
 4. Attach the side pieces to the stepper mounts and the crossbars. 
-!(/images/electronics mounted.png)
+![scanner](/images/electronics mounted.png)
 
 5. Put the rotor cog on the rear stepper.
 
 6. Place the rotor onto the bearings. Adjust the cog stepper as needed. Assemble the
 tops axles, place in the midblocks and mount in place using the bearing covers.
-!(/images/rotor placed.png)
-!(/images/top bearings placed.png)
+![scanner](/images/rotor placed.png)
+![scanner](/images/top bearings placed.png)
